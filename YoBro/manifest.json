@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+
+  "name": "Yo Bro",
+  "description": "Ask yourself often: yo bro.",
+  "version": "1.0",
+  "icons": {
+    "128": "pika_size_128.png",
+    "48": "pika_size_48.png",
+    "16": "pika_size_16.png"
+  },
+
+  "browser_action": {
+    "default_icon": "pika_size_16.png",
+    "default_popup": "popup.html"
+  }
+}
